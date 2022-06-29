@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Circle circle = new ();   
+            Circle circle = new ();   //The same as Circle circle = new Circle();
             Rectangle rectangle = new ();
 
             Console.WriteLine("-------------------------------------------------------------------");
